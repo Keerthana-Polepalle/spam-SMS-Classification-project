@@ -1,0 +1,1 @@
+Developed a Spam SMS Classification system using Natural Language Processing (NLP) and Deep Learning techniques to accurately classify messages as spam or ham. The project involved text preprocessing, feature extraction, and training a deep learning model using Python libraries such as TensorFlow/Keras, Scikit-learn, Pandas, and NumPy to achieve reliable prediction performance.
